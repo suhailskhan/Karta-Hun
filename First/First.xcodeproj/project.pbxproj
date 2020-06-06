@@ -13,7 +13,6 @@
 		740B7DA424860683000A40D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 740B7DA324860683000A40D2 /* Assets.xcassets */; };
 		740B7DA724860683000A40D2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 740B7DA624860683000A40D2 /* Preview Assets.xcassets */; };
 		740B7DAA24860683000A40D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 740B7DA824860683000A40D2 /* LaunchScreen.storyboard */; };
-		74AB3760248A133C00F7ECA5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB375F248A133C00F7ECA5 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		740B7DA624860683000A40D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		740B7DA924860683000A40D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		740B7DAB24860683000A40D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		74AB375F248A133C00F7ECA5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +56,6 @@
 		740B7D9C2486067E000A40D2 /* First */ = {
 			isa = PBXGroup;
 			children = (
-				74AB375F248A133C00F7ECA5 /* MapView.swift */,
 				740B7D9D2486067E000A40D2 /* AppDelegate.swift */,
 				740B7D9F2486067E000A40D2 /* SceneDelegate.swift */,
 				740B7DA12486067E000A40D2 /* ContentView.swift */,
@@ -150,7 +147,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				740B7D9E2486067E000A40D2 /* AppDelegate.swift in Sources */,
-				74AB3760248A133C00F7ECA5 /* MapView.swift in Sources */,
 				740B7DA02486067E000A40D2 /* SceneDelegate.swift in Sources */,
 				740B7DA22486067E000A40D2 /* ContentView.swift in Sources */,
 			);
