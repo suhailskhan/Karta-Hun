@@ -17,7 +17,6 @@
 		74420B622494109E0030C9AA /* IntroductionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74420B5C2494109E0030C9AA /* IntroductionView.swift */; };
 		74420B632494109E0030C9AA /* Extensions+Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74420B5D2494109E0030C9AA /* Extensions+Modifiers.swift */; };
 		74420B642494109E0030C9AA /* InformationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74420B5E2494109E0030C9AA /* InformationDetailView.swift */; };
-		74420B652494109E0030C9AA /* AppIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 74420B5F2494109E0030C9AA /* AppIcon.png */; };
 		74420B662494109E0030C9AA /* InformationContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74420B602494109E0030C9AA /* InformationContainerView.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,7 +33,6 @@
 		74420B5C2494109E0030C9AA /* IntroductionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntroductionView.swift; sourceTree = "<group>"; };
 		74420B5D2494109E0030C9AA /* Extensions+Modifiers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Extensions+Modifiers.swift"; sourceTree = "<group>"; };
 		74420B5E2494109E0030C9AA /* InformationDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InformationDetailView.swift; sourceTree = "<group>"; };
-		74420B5F2494109E0030C9AA /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon.png; sourceTree = "<group>"; };
 		74420B602494109E0030C9AA /* InformationContainerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InformationContainerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,7 +93,6 @@
 				74420B5C2494109E0030C9AA /* IntroductionView.swift */,
 				74420B5D2494109E0030C9AA /* Extensions+Modifiers.swift */,
 				74420B5E2494109E0030C9AA /* InformationDetailView.swift */,
-				74420B5F2494109E0030C9AA /* AppIcon.png */,
 				74420B602494109E0030C9AA /* InformationContainerView.swift */,
 			);
 			path = "Welcome Screen";
@@ -159,7 +156,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74420B652494109E0030C9AA /* AppIcon.png in Resources */,
 				740B7DAA24860683000A40D2 /* LaunchScreen.storyboard in Resources */,
 				740B7DA724860683000A40D2 /* Preview Assets.xcassets in Resources */,
 				740B7DA424860683000A40D2 /* Assets.xcassets in Resources */,
