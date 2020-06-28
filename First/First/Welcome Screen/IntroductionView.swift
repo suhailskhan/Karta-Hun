@@ -13,7 +13,7 @@ struct IntroductionView: View {
         ScrollView {
             VStack(alignment: .center) {
 
-                Spacer(minLength: 90)
+                Spacer()
 
                 TitleView()
 
